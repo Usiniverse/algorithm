@@ -21,3 +21,5 @@ maximumWealth(accounts)
 // 1. accounts[i]의 요소들을 더한다
 // 2. 더한 값을 배열에 넣는다.
 // 3. 배열의 요소 중 가장 큰 값을 리턴한다.
+
+// https://leetcode.com/problems/richest-customer-wealth/description/
